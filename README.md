@@ -61,6 +61,11 @@ CI/CD with Azure DevOps/GitHub Actions, Power Automate Desktop for RPA
 <img width="2364" height="720" alt="Systematic Data Flow" src="https://github.com/user-attachments/assets/3cdb59be-9cbb-4115-a60c-1023ea58d90b" />
 <img width="2380" height="546" alt="Layer by Layer Integration" src="https://github.com/user-attachments/assets/41a4871c-62c9-4be7-8f30-5ba4231db12a" />
 <img width="2380" height="810" alt="Different Environment Integrations" src="https://github.com/user-attachments/assets/b9bd1259-53f2-4256-868e-5d7eedf82e7b" />
+<img width="1643" height="806" alt="Power Automate Flows" src="https://github.com/user-attachments/assets/ccfd3974-dddc-4b9a-92a1-826f481396b5" />
+<img width="1572" height="656" alt="Power Automate Flows Part-2" src="https://github.com/user-attachments/assets/e4916e55-9cec-4bb4-96d1-bb61098bb872" />
+<img width="1920" height="889" alt="Azure Apis" src="https://github.com/user-attachments/assets/f6029c06-9996-4d9b-81fc-887f7895f0eb" />
+<img width="1920" height="856" alt="Client Named Values" src="https://github.com/user-attachments/assets/e406bce8-3647-48c2-88d1-6431356c80c6" />
+<img width="1842" height="804" alt="Custom Connector" src="https://github.com/user-attachments/assets/5a68da11-a8fa-49ec-846f-0a627aecd155" />
 <img width="1122" height="798" alt="Master Folder of Chatbot" src="https://github.com/user-attachments/assets/113fafde-7217-41dd-b52f-d88ef74ae87b" />
 
 
