@@ -55,3 +55,15 @@ Dataverse, SharePoint, Azure SQL, Blob Storage
 Azure AD, OAuth2/JWT, RBAC, AES-256 encryption, audit logging
 ### Other:
 CI/CD with Azure DevOps/GitHub Actions, Power Automate Desktop for RPA
+<img width="1024" height="1536" alt="Main architecture with technologies used" src="https://github.com/user-attachments/assets/e842ca65-5430-4849-a84c-144f4d4120e3" />
+<img width="1024" height="1536" alt="Architectural layer Integrations Diagnostics" src="https://github.com/user-attachments/assets/eb2307e9-1294-4c50-a1ff-ef872d390872" />
+<img width="2380" height="894" alt="Complete System Diagram" src="https://github.com/user-attachments/assets/ed94a210-d23f-4363-8a9a-deed07c0df6e" />
+<img width="2364" height="720" alt="Systematic Data Flow" src="https://github.com/user-attachments/assets/3cdb59be-9cbb-4115-a60c-1023ea58d90b" />
+<img width="2380" height="546" alt="Layer by Layer Integration" src="https://github.com/user-attachments/assets/41a4871c-62c9-4be7-8f30-5ba4231db12a" />
+<img width="2380" height="810" alt="Different Environment Integrations" src="https://github.com/user-attachments/assets/b9bd1259-53f2-4256-868e-5d7eedf82e7b" />
+<img width="1122" height="798" alt="Master Folder of Chatbot" src="https://github.com/user-attachments/assets/113fafde-7217-41dd-b52f-d88ef74ae87b" />
+
+
+
+
+
